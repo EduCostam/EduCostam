@@ -5,7 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edu_costam/)
 
 ![EduCostam GitHub stats](https://github-readme-stats.vercel.app/api?username=EduCostam&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduCostam&layout=compact)](https://github.com/EduCostam/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
 
